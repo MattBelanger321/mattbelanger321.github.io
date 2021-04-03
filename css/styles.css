@@ -818,6 +818,7 @@ template {
     }
 
     .fa.users, .fa-id-badge{
+        margin: 1px;
         font-size: 12rem;
     }
 
