@@ -622,12 +622,17 @@ template {
 }
 
 @media screen and (max-width: 760px) {
-    .hero__heading{
+    .hero__heading {
         font-size: 60px;
     }
 
     .hero__description{
         font-size: 40px;
+    }
+
+    .hero__container{
+        position: relative;
+        top: -25vh;
     }
 }
 
