@@ -712,7 +712,7 @@ template {
     outline: none;
 }
 
-.main__btn a{
+.main__btn p{
     position: relative;
     z-index: 2;
     color: #fff;
