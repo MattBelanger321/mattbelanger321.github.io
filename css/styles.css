@@ -575,9 +575,8 @@ template {
 /* Hero Section */
 
 .hero{
-    background: #000000;
-    background: linear-gradient(to right,#161616,#000000);
     padding: 200px 0;
+    background-image: url(../img/black_sand.jpg);
 }
 
 .hero__container {
@@ -636,6 +635,7 @@ template {
 
 .main{
     background-color: #131313;
+    background-image: url(../img/stars.jpg);
     padding: 10rem 0;
 }
 
@@ -747,7 +747,6 @@ template {
     flex-direction: column;
     justify-content: center;
     color: #fff;
-    background-image: linear-gradient(to right,#00dbde 0%,#fc00ff 100%);
 }
 
 .fa-id-badge, fa-users{
@@ -845,7 +844,7 @@ template {
 /* Skills Section */
 
 .skills{
-    background: #131313;
+    background-image: url(../img/hero-unit-background-desktop.jpg);
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -955,6 +954,7 @@ template {
 
 /* Footer Section */
 .footer__container {
+    background-image: url(../img/black_sand.jpg);
     background-color: #131313;
     padding: 5rem 0;
     display: flex;
