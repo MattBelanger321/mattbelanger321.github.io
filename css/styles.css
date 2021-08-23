@@ -646,6 +646,7 @@ template {
 
 .main__container{
     display: grid;
+    text-align: center;
     grid-template-columns: 1fr 1fr;
     align-items: center;
     justify-content: center;
@@ -658,7 +659,6 @@ template {
 }
 
 .main__content{
-    text-align: center;
     align-items: center;
     justify-content: center;
     color: #fff;
